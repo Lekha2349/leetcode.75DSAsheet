@@ -1,16 +1,24 @@
-✅ Completed Topics
+# LeetCode 75 - DSA Sheet
 
-### 📂 Arrays
-- [Can Place Flowers](Arrays/can_place_flowers.txt)
-- [Increasing Triplet Subsequence](Arrays/increaing_triplet_subsequence.txt)
-- [Kids With No Candies](Arrays/kids_with_no_of_candies.txt)
-- [Product of Array Except Self](Arrays/product_of_array_except_self.txt)
+This repository contains my solutions to the LeetCode 75 Study Plan.  
+The problems are organized by topic such as Arrays, Strings, and more.
 
 ---
 
-## 🔜 Coming Soon
-- Strings
-- Hashing
-- Sliding Window
-- Trees
-- Graphs
+## ✅ Completed Topics
+
+### Arrays
+- Can Place Flowers  
+- Increasing Triplet Subsequence  
+- Kids With No Candies  
+- Product of Array Except Self  
+
+---
+
+## 🔜 Upcoming Topics
+- Strings  
+- Hashing  
+- Sliding Window  
+- Trees  
+- Graphs  
+
